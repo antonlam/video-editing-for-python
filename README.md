@@ -1,7 +1,7 @@
 ***************************************
 Initial setup
 
-Create file "tools" and "segment"
+Create folders "tools" and "segment"
 
 Install ffmpeg in https://ffmpeg.org/download.html and save it in the file "tools"
 
