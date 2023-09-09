@@ -48,7 +48,8 @@ For 4.2 mp4AddWatermark_top_left.bat
 
 Requirement: XXX.mp4 and watermark.png inside the tools folder => path\tools\watermark.png
 
-How to use? : 
+How to use?
+
 You have to drag the file to the bat file and it can add a watermark to the mp4 on the top left corner
 
 ***************************************
@@ -58,7 +59,8 @@ For 5.1srt2ass.bat
 
 Requirement: XXX.srt
 
-How to use? : 
+How to use?
+
 You have to drag the file to the bat file and it can generate XXX.ass
 
 
@@ -67,7 +69,8 @@ For 5.2.addsubtitle.py
 
 Requirement: XXX.srt and XXX.mp4
 
-How to use? : 
+How to use?
+
 Execute the program and then type the file name with the file data type. For example, for XXX.srt or XXX.mp4 should input XXX to the console
 
 After input the name, it will generate a video with subtitle as XXX_sub.mp4
