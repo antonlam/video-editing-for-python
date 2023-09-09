@@ -18,6 +18,7 @@ You have to drag the file to the bat file and it can convert your mp4 to mp3 if 
 For 2.mp3+txt2srt.py
 
 Requirement: XXX.mp3 and XXX.txt (Both mp3 and txt names should be the same)
+
 In XXX.txt
 
 ![image](https://github.com/antonlam/video-editing-for-python/assets/31198405/14b8b940-ecca-425e-8651-d8bd5237b234)
