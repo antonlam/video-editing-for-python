@@ -58,7 +58,7 @@ For 5.1srt2ass.bat
 Requirement: XXX.srt
 
 How to use? : 
-You have to drag the file to the bat file and it can generate XXX.ast
+You have to drag the file to the bat file and it can generate XXX.ass
 
 
 ***************************************
