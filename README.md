@@ -9,7 +9,7 @@ Install ffmpeg in https://ffmpeg.org/download.html and save it in the file "tool
 ***************************************
 **For 0.mp42mp3.bat**
 
-Requirement: XXX.mp4
+*Requirement: XXX.mp4*
 
 How to use?
 
@@ -17,7 +17,7 @@ You have to drag the file to the bat file and it can convert your mp4 to mp3 if 
 ***************************************
 **For 2.mp3+txt2srt.py**
 
-Requirement: XXX.mp3 and XXX.txt (Both mp3 and txt names should be the same)
+*Requirement: XXX.mp3 and XXX.txt (Both mp3 and txt names should be the same)*
 
 In XXX.txt
 
@@ -32,7 +32,7 @@ How to use? : Execute the program and then type the file name with the file data
 ***************************************
 **For 3.splitVideo.py**
 
-Requirement: XXX.mp4
+*Requirement: XXX.mp4*
 
 How to use?
 
@@ -46,7 +46,7 @@ After input all the time slot, type "end" to execute the spliting process
 
 **For 4.2 mp4AddWatermark_top_left.bat**
 
-Requirement: XXX.mp4 and watermark.png inside the tools folder => path\tools\watermark.png
+*Requirement: XXX.mp4 and watermark.png inside the tools folder => path\tools\watermark.png*
 
 How to use?
 
@@ -56,7 +56,7 @@ You have to drag the file to the bat file and it can add a watermark to the mp4 
 
 **For 5.1srt2ass.bat**
 
-Requirement: XXX.srt
+*Requirement: XXX.srt*
 
 How to use?
 
@@ -66,7 +66,7 @@ You have to drag the file to the bat file and it can generate XXX.ass
 ***************************************
 **For 5.2.addsubtitle.py**
 
-Requirement: XXX.srt and XXX.mp4
+*Requirement: XXX.srt and XXX.mp4*
 
 How to use?
 
