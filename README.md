@@ -9,7 +9,7 @@ Install ffmpeg in https://ffmpeg.org/download.html and save it in the file "tool
 ***************************************
 **For 0.mp42mp3.bat**
 
-*Requirement: _XXX.mp4_*
+*Requirement: XXX.mp4*
 
 How to use?
 
@@ -17,7 +17,7 @@ You have to drag the file to the bat file and it can convert your mp4 to mp3 if 
 ***************************************
 **For 2.mp3+txt2srt.py**
 
-*Requirement: _XXX.mp3_ and _XXX.txt (Both mp3 and txt names should be the same)_*
+*Requirement: XXX.mp3 and XXX.txt (Both mp3 and txt names should be the same)*
 
 In XXX.txt
 
